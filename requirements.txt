@@ -1,0 +1,12 @@
+datasets
+transformers==4.44.0
+pandas
+scikit-learn
+accelerate
+wandb
+joblib
+ctranslate2
+trl
+bitsandbytes
+peft
+evaluate
